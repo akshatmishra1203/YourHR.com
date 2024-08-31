@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "66d327c55c0ebb0c48b3f589"
+  },
+  "name": "ajaykumar",
+  "password": "560",
+  "email": "ajaykumar23@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d3287a5c0ebb0c48b3f58a"
+  },
+  "name": "AnanyaPatel",
+  "email": "ananyapatel@example.com",
+  "password": "Pass1234!"
+},
+{
+  "_id": {
+    "$oid": "66d328a85c0ebb0c48b3f58b"
+  },
+  "name": "RajivSharma",
+  "email": "rajiv.sharma@example.com",
+  "password": "Secure@789"
+},
+{
+  "_id": {
+    "$oid": "66d328c85c0ebb0c48b3f58c"
+  },
+  "name": "MayaVerma",
+  "email": "maya.verma@example.com",
+  "password": "Qwerty!2024"
+},
+{
+  "_id": {
+    "$oid": "66d328dc5c0ebb0c48b3f58d"
+  },
+  "name": "ArjunSingh",
+  "email": "arjun.singh@example.com",
+  "password": "Arjun@2024"
+},
+{
+  "_id": {
+    "$oid": "66d328ef5c0ebb0c48b3f58e"
+  },
+  "name": "NehaGupta",
+  "email": "neha.gupta@example.com",
+  "password": "Gupta#2024"
+},
+{
+  "_id": {
+    "$oid": "66d329025c0ebb0c48b3f58f"
+  },
+  "name": "SiddharthMehta",
+  "email": "siddharth.mehta@example.com",
+  "password": "Mehta!@2024"
+},
+{
+  "_id": {
+    "$oid": "66d329255c0ebb0c48b3f590"
+  },
+  "name": "PriyaKumar",
+  "email": "priya.kumar@example.com",
+  "password": "Kumar$2024"
+}]
